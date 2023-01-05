@@ -6,3 +6,5 @@ Group Number: 8
 ,20101025-Nabil Shartaj Khan
 
 Overleaf link: https://www.overleaf.com/read/jcztcxmnkqpz
+Conference link: https://ieeeaccess.ieee.org/
+Paper link: 
